@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.*;
 
 
-public class AutoTesingTest {
+public class AutoTestingTest {
 	private WebDriver driver;
 	@Before
 	public void setup() {
